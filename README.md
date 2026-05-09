@@ -5,4 +5,4 @@ Material das aulas de programação da FATEC de São Caetano do Sul
 Laço de repetição finito, For / Foreach
 
 #### Aula - 02
-Laço de repetição infinito, While
+Laço de repetição infinito, While e Funções Internas do python
